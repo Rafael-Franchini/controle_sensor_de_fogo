@@ -81,7 +81,7 @@ class _sobreState extends State<sobre> {
                   ),
                   SizedBox(height: 12),
                   Text(
-                    'Este aplicativo se conecta a uma ou mais placas ESP8266 para coletar informações em tempo real, como temperatura, gás e sensores diversos. Nenhuma informação pessoal é coletada ou enviada para servidores externos. Todos os dados permanecem no seu dispositivo.',
+                    'Este aplicativo se conecta a uma ou mais placas ESP8266 para coletar informações em tempo real, gás e sensor de chama. Nenhuma informação pessoal é coletada ou enviada para servidores externos. Todos os dados permanecem no seu dispositivo.',
                     textAlign: TextAlign.justify,
                     style: TextStyle(fontSize: 14, color: Colors.white),
                   ),

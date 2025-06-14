@@ -38,7 +38,7 @@ class Ajuda extends StatelessWidget {
                   ),
                   SizedBox(height: 20),
                   Text(
-                    'Os sensores de fogo são dispositivos conectados que monitoram a temperatura, gás, umidade e presença de chamas em tempo real. Eles aparecem na tela inicial do app quando cadastrados corretamente.',
+                    'Os sensores de fogo são dispositivos conectados que monitoram o gás e presença de chamas em tempo real. Eles aparecem na tela inicial do app quando cadastrados corretamente.',
                     style: TextStyle(color: Colors.white, fontSize: 16),
                     textAlign: TextAlign.justify,
                   ),
