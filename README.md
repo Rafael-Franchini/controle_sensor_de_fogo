@@ -46,7 +46,7 @@ Aqui estão algumas telas que demonstram o funcionamento do aplicativo.
 
 ![4](https://github.com/user-attachments/assets/0d58e172-703c-4eb6-9ad5-30aa8b3f1d40)
 
-*Figura 3 - Tela opções onde temos ajuda e sobre o app.*
+*Figura 4 - Tela opções onde temos ajuda e sobre o app.*
 
 
 ## 🛠️ Tecnologias Utilizadas
